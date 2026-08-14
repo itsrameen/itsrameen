@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="./rameen-banner.png" alt="Rameen Kashif Banner" width="100%">
+  <img src="./coding-girl.png" alt="Rameen Kashif Banner" width="100%">
 </p>
 
 
