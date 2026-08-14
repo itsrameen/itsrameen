@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1D4ED8,100:38BDF8&height=270&section=header&text=MY%20DIGITAL%20PORTFOLIO&fontSize=48&fontColor=FFFFFF&fontAlignY=30&desc=Turning%20Ideas%20Into%20Digital%20Solutions&descSize=21&descAlignY=55&descColor=BAE6FD&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,35:111827,65:312E81,100:6D28D9&height=270&section=header&text=MY%20DIGITAL%20PORTFOLIO&fontSize=48&fontColor=FFFFFF&fontAlignY=30&desc=Turning%20Ideas%20Into%20Digital%20Solutions&descSize=21&descAlignY=55&descColor=DDD6FE&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Rameen+Kashif! 👋,;BSCS+Final+Year+Student;AI+Learner+%7C+Python+%7C+Web+Development;Always+Learning+New+Things+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=28&duration=3500&pause=1000&color=C4B5FD&center=true&vCenter=true&width=800&height=50&lines=Hi%2C%20I%27m%20Rameen%20Kashif!%20%F0%9F%91%8B;BSCS%20Final%20Year%20Student;AI%20Learner%20%7C%20Python%20%7C%20Web%20Development;Always%20Learning%20New%20Things%20%F0%9F%9A%80" />
 </p>
 
 ---
