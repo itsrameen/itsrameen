@@ -18,18 +18,37 @@
 
 🌱 Always learning, exploring, and improving my skills.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50:312E81,100:111827&height=3&section=header" width="80%"/>
+</p>
 
 ## 💻 Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web_Development-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Assembly Language](https://img.shields.io/badge/Assembly_Language-555555?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-6A5ACD?style=for-the-badge)
+### 🐍 Programming & AI
 
----
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-6A5ACD?style=for-the-badge"/>
+</p>
+
+### 🌐 Web & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Web%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### ⚙️ Other Technical Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Assembly%20Language-555555?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50:312E81,100:111827&height=3&section=header" width="80%"/>
+</p>
+
 
 ## 🛠️ Tools & Productivity
 
@@ -37,7 +56,10 @@
 ![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-4CAF50?style=for-the-badge)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50:312E81,100:111827&height=3&section=header" width="80%"/>
+</p>
+
 
 ## ✍️ Technical Writing
 
@@ -50,7 +72,7 @@
 ---
 
 <p align="center">
-  <img src="./coding-girl.png" alt="Rameen Kashif Banner" width="100%">
+  <img src="./girl.png" alt="Girl Banner" width="100%">
 </p>
 
 
@@ -74,6 +96,11 @@
 </a>
 
 ---
+
 ## ✨ Motto
 
 > **Learn • Build • Create • Grow 🚀**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,35:111827,65:312E81,100:6D28D9&height=100&section=footer" width="100%"/>
+</p>
