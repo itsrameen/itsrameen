@@ -41,50 +41,39 @@
 
 ## ✍️ Technical Writing
 
-📝 I enjoy writing technical articles and sharing my learning journey.
+📝 I enjoy writing technical articles, project documentation, and sharing what I learn.
 
-📚 I write about programming, AI, projects, and my experiences as a BSCS student.
+📚 I write about programming, Artificial Intelligence, projects, and my learning journey as a BSCS student.
 
-🔗 Read my articles on **Medium**.
-
----
-
-## ✨ Highlights
-
-🎓 Final Year BSCS Student  
-🤖 Exploring Artificial Intelligence  
-🐍 Building projects with Python  
-🌐 Learning Web Development  
-📝 Technical Writing & Documentation  
-🎨 Presentation Design
+🌐 I share my articles and technical experiences on **Medium.**
 
 ---
 
-## 📂 Featured Projects
+<p align="center">
+  <img src="./rameen-banner.png" alt="Rameen Kashif Banner" width="100%">
+</p>
 
-### 🤖 Vision Bridge AI
-AI-based project combining **Age Detection** and **Sign Language Recognition** with an interactive interface.
-
-### 🧠 Deepfake Detection System
-A Python-based project focused on detecting AI-generated or manipulated content.
-
-### 🌐 Web Development Projects
-Web-based projects created using **HTML, CSS, and JavaScript**.
-
-### 🐍 Python Projects
-Academic and practical projects developed using Python.
-
----
 
 ## 🌱 What I'm Learning
 
-🤖 Artificial Intelligence & emerging AI technologies  
+🤖 Artificial Intelligence & Machine Learning  
 🐍 Improving my Python skills  
 🌐 Exploring Web Development  
-💻 Learning Git & GitHub
+💻 Learning Git & GitHub  
+📚 Building better projects and documentation
 
 ---
+## 🌐 Connect With Me
 
+<a href="https://medium.com/@rameenkashif243">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://www.pinterest.com/rameenkashif44/">
+  <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"/>
+</a>
+
+---
 ## ✨ Motto
 
 > **Learn • Build • Create • Grow 🚀**
