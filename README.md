@@ -24,31 +24,18 @@
 
 ## 💻 Technical Skills
 
-### 🐍 Programming & AI
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-6A5ACD?style=for-the-badge"/>
-</p>
-
-### 🌐 Web & Database
-
-<p>
   <img src="https://img.shields.io/badge/Web%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### ⚙️ Other Technical Skills
-
-<p>
   <img src="https://img.shields.io/badge/Assembly%20Language-555555?style=for-the-badge"/>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50:312E81,100:111827&height=3&section=header" width="80%"/>
 </p>
-
 
 ## 🛠️ Tools & Productivity
 
@@ -58,8 +45,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50:312E81,100:111827&height=3&section=header" width="80%"/>
-</p>
-
+</p> 
 
 ## ✍️ Technical Writing
 
@@ -84,7 +70,11 @@
 💻 Learning Git & GitHub  
 📚 Building better projects and documentation
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50:312E81,100:111827&height=3&section=header" width="80%"/>
+</p>
+
 ## 🌐 Connect With Me
 
 <a href="https://medium.com/@rameenkashif243">
@@ -95,7 +85,10 @@
   <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"/>
 </a>
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50:312E81,100:111827&height=3&section=header" width="80%"/>
+</p>
 
 ## ✨ Motto
 
